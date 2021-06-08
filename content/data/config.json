@@ -1,7 +1,7 @@
 {
     "path_prefix": "/",
     "layout_style": "overflow",
-    "palette": "violet",
+    "palette": "blue",
     "header": {
         "title": "MediaCode",
         "tagline": "Header Tagline",
