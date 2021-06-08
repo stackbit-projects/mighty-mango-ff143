@@ -4,7 +4,6 @@
     "palette": "violet",
     "header": {
         "title": "MediaCode",
-        "tagline": "Header Tagline",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
