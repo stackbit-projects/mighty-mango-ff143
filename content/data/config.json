@@ -44,7 +44,7 @@
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true,
-                "no_follow": true
+                "no_follow": false
             },
             {
                 "label": "Instagram",
