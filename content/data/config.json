@@ -12,7 +12,8 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "icon"
+                "style": "icon",
+                "no_follow": true
             },
             {
                 "label": "Blog",
