@@ -2,7 +2,7 @@
     "title": "Stackbit Fresh Theme",
     "path_prefix": "/",
     "layout_style": "simple",
-    "palette": "blue",
+    "palette": "orange",
     "header": {
         "title": "MediaCode",
         "tagline": "Header Tagline",
