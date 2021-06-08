@@ -91,7 +91,7 @@
         "links": [
             {
                 "url": "#https://LinkedIn/in/angelsiblani",
-                "style": "link",
+                "style": "button",
                 "icon_class": "linkedin",
                 "new_window": true,
                 "no_follow": false,
