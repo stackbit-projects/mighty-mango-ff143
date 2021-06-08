@@ -93,7 +93,7 @@
                 "url": "#",
                 "style": "link",
                 "icon_class": "linkedin",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action",
                 "label": "Angel Siblani"
